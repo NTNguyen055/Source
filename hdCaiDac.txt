@@ -1,0 +1,9 @@
+Trang ADMIN
+http://localhost:3000/admin/admin.php
+email: vithanh1122@gmail.com
+password: Banhmi4o
+
+Trang Home
+http://localhost:3000/dashboard/Trangchu.php
+email: nguyenkun555@gmail.com
+password: 123
